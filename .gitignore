@@ -1,0 +1,53 @@
+.classpath
+.project
+.settings
+*.launch
+target
+.m2
+*.log
+logs
+*.log.*
+.idea
+*.iml
+*.iws
+.DS_Store
+Thumbs.db
+.env
+*.local
+*.pid
+*.seed
+*.lock
+application-*.properties
+application-*.yml
+*.bak
+*.swp
+*~.nib
+*.tmp
+*.temp
+.gitattributes
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
